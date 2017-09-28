@@ -1,4 +1,6 @@
-Test 18:32
+﻿Test 18:32
 Този файл беше създаден на компа.
 
 18:50 този файл беше променен от страницата на Git
+
+19:03 this line was added to the file from the notepad
