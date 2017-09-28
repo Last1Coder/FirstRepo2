@@ -3,4 +3,11 @@
 
 18:50 този файл беше променен от страницата на Git
 
+
 19:03 this line was added to the file from the notepad
+
+
+
+19:01 added 5 new lines from the Git page
+
+19:12 this is written after the conflict was resolwed. Written using notepad.
